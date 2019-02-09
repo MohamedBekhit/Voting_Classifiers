@@ -12,6 +12,6 @@ Content Summary:
 8. Feature importance analysis.
 9. AdaBoost classifier.
 10. AdaBoost learning rate tuning.
-11. Gradient Boosting Ccassifier.
+11. Gradient Boosting Classifier.
 12. Learning rate and n_estimators effect on model.
 13. Early stopping implementation and deplyment.
