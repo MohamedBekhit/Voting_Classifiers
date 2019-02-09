@@ -14,4 +14,4 @@ Content Summary:
 10. AdaBoost learning rate tuning.
 11. Gradient Boosting Classifier.
 12. Learning rate and n_estimators effect on model.
-13. Early stopping implementation and deplyment.
+13. Early stopping implementation and deployment.
